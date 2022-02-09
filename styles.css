@@ -23,6 +23,9 @@ div {
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
     
 }
 
